@@ -1,0 +1,11 @@
+test_id,report_type,scenario,file_name,classification,extraction,explanation,abnormality,processing_time,error,human_review
+T01,Semen Examination,Clinical pathology / semen examination,01_cbc_normal.jpg,,,,,,,
+T02,CBC,Abnormal CBC,cbc_abnormal.jpg,,,,,,,
+T03,Lipid Profile,Abnormal lipid profile,lipid-profile.jpg,,,,,,,
+T04,Thyroid Profile,Normal thyroid profile,normal-thyroid-profile-test-report-format-example-sample-template-drlogy-lab-report.jpg,,,,,,,
+T05,Obstetric Ultrasound,Ultrasound / narrative imaging report,sample-ultra-sound.jpg,,,,,,,
+T06,TBD,Additional report required,TBD,,,,,,,
+T07,TBD,Poor-quality image test required,TBD,,,,,,,
+T08,TBD,Additional multi-page / multi-image test required,TBD,,,,,,,
+T09,TBD,Different laboratory format test required,TBD,,,,,,,
+T10,TBD,Unsupported or unclear report test required,TBD,,,,,,,
